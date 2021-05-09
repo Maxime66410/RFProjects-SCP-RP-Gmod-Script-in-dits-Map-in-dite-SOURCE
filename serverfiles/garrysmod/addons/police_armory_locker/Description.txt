@@ -1,0 +1,101 @@
+﻿This is a police armory that has everything you need! Police officers can retrieve and deposit weapons into the armory and access them through a sexy UI, while robbers can lockpick their way into the armory Pay-Day style.
+
+Robbers are able to lockpick the doors of the police armory locker in a Pay-Day style if they purchase an armory lockpick through the F4 menu.
+
+Features
+
+✔️ Police armory to retrieve weapons, ammo and items.
+
+✔️ Lockpicking system for criminals to steal from the armory.
+
+✔️ Custom models.
+
+✔️ Custom door animations and sequences.
+
+✔️ Custom icons on the armory locker doors.
+
+✔️ A successful lockpick grants access to steal 3 random items from the armory.
+
+✔️ You can restrict weapons/items to specific jobs in the config.
+
+✔️ Police can deposit weapons back into the armory.
+
+✔️ Notifies police when someone has lockpicked the armory.
+
+✔️ Police reward for killing players trying to lockpick doors.
+
+✔️ Cooldown on doors after being lockpicked until weapons automatically restock.
+
+✔️ Players have a personal cooldown after lockpicking, independently of the door cooldown.
+
+✔️ Console command to easily save and change position of the police armory with map based saving.
+
+✔️ Set required amount of police officers before the armory is rob-able to create fair roleplay.
+
+✔️ Rewards for killing criminals that are lockpicking the armory.
+
+✔️ 30+ configuration options for you to change the script to your liking.
+
+✔️ Support for Sublime Levels and Vrondakis Level System.
+
+✔️ Supports M9K Weapons by default.
+
+✔️ Supports FAS:2 Weapons by default.
+
+✔️ Supports Customizable Weaponry 2.0 by default.
+
+✔️ And much more!
+
+How It Works
+
+As a police officer you can retrieve weapons from the armory by simply accessing it using 'E' to open the menu. The armory has custom animations and the doors will open once you access it and close once you leave (or when the last officers leaves if multiple people are using it at the same time.
+
+Weapons that you retrieve can be deposited again and there is a config for server owners to set a cooldown on retrieving weapons, ammo and items from the armory.
+
+As a criminal you can purchase the "Armory Lockpick" from the F4 menu. This weapon enabled icons on the armory locker doors that indicates where to lockpick. Once a lockpick starts the custom animations will play for the weapon and a bar appears to show progress on your screen.
+
+If you succeed lockpicking without looking away from the door or get killed then a menu will appear with some random content from the armory. You can maximum loot 3 items and then leave the armory.
+
+A lockpicking cooldown is applied to the player as well as the specific door that was lockpicked. The player cannot lockpick another door before their cooldown is over, and the doors won't regenerate items until the door cooldown time is over. Both are configurable by the server owner.
+
+Installation & Content
+
+This addon supports DarkRP 2.7+
+
+Other newer versions should also work. If they do not, please create a ticket so this can be sorted.
+
+Extract "police_armory_locker" to your addons!
+
+Once you've done that, you will need to set up the location of the police armory.
+
+All you have to do now is launch your server, find a fitting spot for the armory and type "policearmory_locker_setpos" and the position will be saved.
+
+If you want to set another position for the police armory locker you just run the command again. It will now show up at your new position after 5 seconds.
+
+The armory will face in the direction of the player, so keep that in mind when setting it in-game.
+
+Content
+
+This script contains custom model and materials. Script content can be found at:
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1917043256
+
+Make sure to add this to your servers workshop collection as well.
+
+Customizing
+
+To customize the general settings go to police_armory_locker/lua/armory_locker/shared/armory_locker_config.lua
+
+To customize the lockpick swep that gets added to DarkRP go to police_armory_locker/lua/armory_locker/shared/armory_locker_darkrpadds.lua
+
+There are over 20 different configuration options in the general settings. I can add any configuration you would like as well. Please just submit a support ticket with your request, and I will see if it's possible.
+
+Additionally a large selection of M9K weapons are added to the police armory settings by default. A selection of ammo types and health/armor items are also added by default.
+
+Errors & Support
+
+If you find any problems with the script, please create a support ticket with details of the situation and a copy/paste of the error in console. I am also not interested in modifying you a custom version of the addon. Also not upon payment. Sorry!
+
+Conflicting addons is not to be said if I will support that or not. This is something I will decide upon confrontation about a conflicting addon. If you have some sort of proof that an addon is conflicting with my addon, please send me a PM with the details you might have.
+
+Thank you!

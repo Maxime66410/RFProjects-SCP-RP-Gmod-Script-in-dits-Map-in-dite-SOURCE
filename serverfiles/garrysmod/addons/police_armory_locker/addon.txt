@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"		"Police Armory Locker"
+	"version"	"1.1.0"
+	"up_date"	"2021"
+	"author_name"	"Crap-Head"
+	"author_url"	"https://www.gmodstore.com/users/crap-head"
+	"info"		"An advanced system that allows players to lockpick the police armory and steal weapons. Police officers can retrieve guns from the armory as well. A supply crate can be robbed by players, and spawn shipments, ammo packages and money."
+}

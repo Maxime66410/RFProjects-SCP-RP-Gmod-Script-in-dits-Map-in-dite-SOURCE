@@ -1,0 +1,1 @@
+WasiedLib = WasiedLib or {}
