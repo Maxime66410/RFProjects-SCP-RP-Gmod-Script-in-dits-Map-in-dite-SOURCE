@@ -1,0 +1,30 @@
+[11:27:50] New map: gm_construct
+[14:04:13] Client "STG Seyy / Julie Scott" connected.
+[14:04:49] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 36 seconds).
+[14:05:42] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned vehicle models/talonvehicles/humvee.mdl
+[14:05:50] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned vehicle models/buggy.mdl
+[14:22:45] Dropped "STG Seyy / Julie Scott" from server<STEAM_0:0:128568350>
+[14:35:16] Client "AGgames" connected.
+[14:37:12] Client "AGgames" spawned in server <STEAM_0:1:186266313> (took 116 seconds).
+[14:37:33] AGgames<STEAM_0:1:186266313> spawned NPC npc_combine_s
+[14:37:40] AGgames<STEAM_0:1:186266313> spawned NPC npc_citizen
+[14:37:44] AGgames<STEAM_0:1:186266313> spawned NPC npc_combine_s
+[14:37:53] AGgames<STEAM_0:1:186266313> spawned NPC npc_citizen
+[14:38:02] AGgames<STEAM_0:1:186266313> spawned NPC scp_087_b_3
+[14:38:03] AGgames was killed by scp_087_b_3
+[14:39:02] AGgames was killed by scp_087_b_3
+[14:39:11] AGgames<STEAM_0:1:186266313> spawned NPC npc_citizen
+[14:39:18] AGgames<STEAM_0:1:186266313> spawned NPC npc_citizen
+[14:39:26] AGgames<STEAM_0:1:186266313> spawned NPC npc_combine_s
+[14:39:30] AGgames<STEAM_0:1:186266313> spawned NPC npc_combine
+[14:39:57] Dropped "AGgames" from server<STEAM_0:1:186266313>
+[20:05:28] Server is shutting down/changing levels.
+
+
+
+[20:06:04] New map: gm_construct
+[20:07:18] Client "STG Seyy / Julie Scott" connected.
+[20:08:08] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 50 seconds).
+[20:09:46] (Console) added STG Seyy / Julie Scott to group superadmin
+[20:31:19] Dropped "STG Seyy / Julie Scott" from server<STEAM_0:0:128568350>
+<Logging continued in "data/ulx_logs/04-30-21.txt">

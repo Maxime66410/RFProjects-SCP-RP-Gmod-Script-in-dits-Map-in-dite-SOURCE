@@ -1,0 +1,127 @@
+Sat May  1 13:32:06 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Sat May  1 13:32:06 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 13:34:12 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 13:38:02 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 13:38:18 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 13:38:54 2021	IAA (STEAM_0:0:128568350) disconnected
+Sat May  1 15:02:44 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Sat May  1 15:02:44 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 15:03:34 2021	IAA (STEAM_0:0:128568350): /setspawn classed
+Sat May  1 15:03:45 2021	IAA (STEAM_0:0:128568350): /setspawn classed
+Sat May  1 15:03:53 2021	IAA (STEAM_0:0:128568350): /setspawn classed
+Sat May  1 15:04:00 2021	IAA (STEAM_0:0:128568350): /setspawn classed
+Sat May  1 15:04:06 2021	IAA (STEAM_0:0:128568350): /setspawn classed
+Sat May  1 15:04:08 2021	IAA was killed by Himself with a suicide trick
+Sat May  1 15:04:11 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 15:04:21 2021	IAA was killed by Himself with a suicide trick
+Sat May  1 15:04:24 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 15:04:42 2021	IAA (STEAM_0:0:128568350): /addspawn classed
+Sat May  1 15:04:47 2021	IAA was killed by Himself with a suicide trick
+Sat May  1 15:04:51 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 15:05:01 2021	IAA was killed by Himself with a suicide trick
+Sat May  1 15:05:04 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 15:05:24 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 15:05:49 2021	IAA (STEAM_0:0:128568350): /setspawn chercheur_assistant
+Sat May  1 15:06:11 2021	IAA (STEAM_0:0:128568350): /setspawn chercheur_novice
+Sat May  1 15:06:20 2021	IAA (STEAM_0:0:128568350): /setspawn chercheur
+Sat May  1 15:06:28 2021	IAA (STEAM_0:0:128568350): /setspawn chercheur titulaire
+Sat May  1 15:06:38 2021	IAA (STEAM_0:0:128568350): /setspawn chercheur_titulaire
+Sat May  1 15:06:55 2021	IAA (STEAM_0:0:128568350): /setspawn chercheurspecialiste
+Sat May  1 15:07:04 2021	IAA (STEAM_0:0:128568350): /setspawn chercheur_conf
+Sat May  1 15:07:18 2021	IAA (STEAM_0:0:128568350): /setspawn chercheur_exp
+Sat May  1 15:07:33 2021	IAA (STEAM_0:0:128568350): /setspawn sci_formateur
+Sat May  1 15:07:40 2021	IAA (STEAM_0:0:128568350): /setspawn sciformateur
+Sat May  1 15:08:03 2021	IAA (STEAM_0:0:128568350): /setspawn superviseur
+Sat May  1 15:08:16 2021	IAA (STEAM_0:0:128568350): !menu
+Sat May  1 15:14:02 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 15:18:02 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 15:26:58 2021	IAA (STEAM_0:0:128568350): YY
+Sat May  1 15:33:05 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 15:37:30 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 15:37:50 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 15:43:07 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 15:46:02 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 15:59:05 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 15:59:46 2021	IAA (STEAM_0:0:128568350): /setspawn dadadjoint
+Sat May  1 15:59:54 2021	IAA (STEAM_0:0:128568350): /setspawn dadjoint
+Sat May  1 16:00:08 2021	IAA (STEAM_0:0:128568350): /setspawn adjoint
+Sat May  1 16:00:18 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 16:00:52 2021	IAA (STEAM_0:0:128568350): /setspawn secu_rgarde
+Sat May  1 16:01:03 2021	IAA (STEAM_0:0:128568350): /setspawn secu_garde
+Sat May  1 16:01:19 2021	IAA (STEAM_0:0:128568350): /setspawn lsecu_garde
+Sat May  1 16:01:34 2021	IAA (STEAM_0:0:128568350): /setspawn casecu_garde
+Sat May  1 16:01:48 2021	IAA (STEAM_0:0:128568350): /setspawn secu_lggarde
+Sat May  1 16:01:59 2021	IAA (STEAM_0:0:128568350): /setspawn secu_cgarde
+Sat May  1 16:02:15 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 16:02:54 2021	IAA (STEAM_0:0:128568350): /setspawn secu_reagent
+Sat May  1 16:03:05 2021	IAA (STEAM_0:0:128568350): /setspawn secu_agent
+Sat May  1 16:03:17 2021	IAA (STEAM_0:0:128568350): /setspawn secu_caporal
+Sat May  1 16:03:30 2021	IAA (STEAM_0:0:128568350): /setspawn secu_caporalchef
+Sat May  1 16:03:39 2021	IAA (STEAM_0:0:128568350): /setspawn secu_sergent
+Sat May  1 16:03:50 2021	IAA (STEAM_0:0:128568350): /setspawn secu_sergentchef
+Sat May  1 16:04:04 2021	IAA (STEAM_0:0:128568350): /setspawn secu_adjudant
+Sat May  1 16:04:19 2021	IAA (STEAM_0:0:128568350): /setspawn secu_adjudantchef
+Sat May  1 16:04:33 2021	IAA (STEAM_0:0:128568350): /setspawn secu_major
+Sat May  1 16:04:45 2021	IAA (STEAM_0:0:128568350): /setspawn secu_eleve
+Sat May  1 16:04:54 2021	IAA (STEAM_0:0:128568350): /setspawn secu_sapirant
+Sat May  1 16:05:04 2021	IAA (STEAM_0:0:128568350): /setspawn secu_slieutnant
+Sat May  1 16:05:18 2021	IAA (STEAM_0:0:128568350): /setspawn secu_slieutenant
+Sat May  1 16:05:29 2021	IAA (STEAM_0:0:128568350): /setspawn secu_lieutenant
+Sat May  1 16:05:38 2021	IAA (STEAM_0:0:128568350): /setspawn secu_capitaine
+Sat May  1 16:05:51 2021	IAA (STEAM_0:0:128568350): /setspawn secu_commandant
+Sat May  1 16:06:24 2021	IAA (STEAM_0:0:128568350): /setspawn secu_lcolonel
+Sat May  1 16:06:34 2021	IAA (STEAM_0:0:128568350): /setspawn secu_colonel
+Sat May  1 16:06:48 2021	IAA (STEAM_0:0:128568350): /setspawn garde_generale
+Sat May  1 16:07:01 2021	IAA (STEAM_0:0:128568350): /setspawn secu_medecin
+Sat May  1 16:07:06 2021	IAA (STEAM_0:0:128568350): /setspawn secu_chien
+Sat May  1 16:07:14 2021	IAA (STEAM_0:0:128568350): /job secu_chien
+Sat May  1 16:07:25 2021	IAA (STEAM_0:0:128568350): /setjob secu_chien
+Sat May  1 16:07:32 2021	IAA (STEAM_0:0:128568350): !setjob secu_chien
+Sat May  1 16:07:45 2021	IAA (STEAM_0:0:128568350): /setspawn secu_spec
+Sat May  1 16:10:02 2021	IAA (STEAM_0:0:128568350): /setspawn secu_utrle
+Sat May  1 16:10:11 2021	IAA (STEAM_0:0:128568350): /setspawn secu_ utrlo
+Sat May  1 16:10:18 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 16:12:11 2021	IAA (STEAM_0:0:128568350): /setspawn ia
+Sat May  1 16:12:19 2021	IAA (STEAM_0:0:128568350): /setspawn iasite
+Sat May  1 16:12:30 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 16:13:02 2021	IAA (STEAM_0:0:128568350): /setspawn scp_999
+Sat May  1 16:21:23 2021	IAA (STEAM_0:0:128568350): 
+Sat May  1 16:48:57 2021	Crazy Engineer (STEAM_0:1:6574922) has joined the game
+Sat May  1 16:48:57 2021	Crazy Engineer (STEAM_0:1:6574922) spawned
+Sat May  1 16:50:41 2021	Crazy Engineer (STEAM_0:1:6574922): // Bonjour
+Sat May  1 16:51:30 2021	Crazy Engineer (STEAM_0:1:6574922) disconnected
+Sat May  1 17:00:27 2021	IAA (STEAM_0:0:128568350) disconnected
+Sat May  1 18:55:07 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Sat May  1 18:55:07 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 18:55:54 2021	IAA (STEAM_0:0:128568350): /name D-4654
+Sat May  1 18:56:03 2021	IAA (STEAM_0:0:128568350): /name D 1515
+Sat May  1 19:00:40 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sat May  1 19:00:51 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sat May  1 19:00:51 2021	D 1515 (STEAM_0:0:128568350): /na <c=255,0,0>SCP-106 Disponible pour une Expérience.</c>
+Sat May  1 19:02:41 2021	D 1515 (STEAM_0:0:128568350) spawned NPC npc_crow
+Sat May  1 19:02:46 2021	D 1515 (STEAM_0:0:128568350) spawned NPC npc_monk
+Sat May  1 19:02:58 2021	D 1515 (STEAM_0:0:128568350) spawned NPC npc_pigeon
+Sat May  1 19:04:31 2021	D 1515 (STEAM_0:0:128568350): !menu
+Sat May  1 19:05:15 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sat May  1 19:05:16 2021	D 1515 (STEAM_0:0:128568350): /na <c=255,0,0>SCP-035 Disponible pour une Expérience.</c>
+Sat May  1 19:06:23 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sat May  1 19:06:31 2021	D 1515 (STEAM_0:0:128568350): /setspawn scp_106
+Sat May  1 19:06:48 2021	D 1515 (STEAM_0:0:128568350): /setspawn scp-035
+Sat May  1 19:06:58 2021	D 1515 (STEAM_0:0:128568350): /setspawn scp_035
+Sat May  1 19:07:27 2021	D 1515 (STEAM_0:0:128568350): /setspawn scp_096
+Sat May  1 19:07:37 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sat May  1 19:09:06 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sat May  1 19:10:10 2021	D 1515 (STEAM_0:0:128568350): /setspawn scp_006_fr
+Sat May  1 19:10:27 2021	D 1515 (STEAM_0:0:128568350): /setspawn scp_006
+Sat May  1 19:10:32 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sat May  1 19:11:09 2021	D 1515 (STEAM_0:0:128568350): /setspawn scp_079
+Sat May  1 19:11:26 2021	D 1515 (STEAM_0:0:128568350): /setspawn scp_939
+Sat May  1 19:11:39 2021	D 1515 (STEAM_0:0:128568350): /setspawn scp_049
+Sat May  1 19:12:34 2021	D 1515 (STEAM_0:0:128568350): /setspawn scp_999
+Sat May  1 19:12:39 2021	D 1515 (STEAM_0:0:128568350): /setspawn scp_131
+Sat May  1 19:12:52 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sat May  1 19:12:53 2021	D 1515 (STEAM_0:0:128568350): /na <c=255,0,0>SCP-131 Disponible pour une Expérience.</c>
+Sat May  1 19:15:22 2021	D 1515 (STEAM_0:0:128568350): /advert ttt
+Sat May  1 19:15:27 2021	D 1515 (STEAM_0:0:128568350): /ad
+Sat May  1 19:15:36 2021	D 1515 (STEAM_0:0:128568350): /advert
+Sat May  1 19:17:07 2021	D 1515 (STEAM_0:0:128568350): !menu

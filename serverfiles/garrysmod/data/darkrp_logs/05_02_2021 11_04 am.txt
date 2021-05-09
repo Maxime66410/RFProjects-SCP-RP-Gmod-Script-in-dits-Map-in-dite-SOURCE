@@ -1,0 +1,11 @@
+Sun May  2 11:04:11 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Sun May  2 11:04:11 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 11:05:28 2021	D 1515 (STEAM_0:0:128568350): /scp
+Sun May  2 11:05:32 2021	D 1515 (STEAM_0:0:128568350): !scp
+Sun May  2 11:07:17 2021	D 1515 (STEAM_0:0:128568350): !scpa
+Sun May  2 11:07:24 2021	D 1515 (STEAM_0:0:128568350): !menu
+Sun May  2 11:07:41 2021	D 1515 (STEAM_0:0:128568350) spawned SENT scp_alarms
+Sun May  2 11:13:22 2021	D 1515 (STEAM_0:0:128568350) disconnected
+Sun May  2 14:46:13 2021	Manoubadou (STEAM_0:0:570620733) has joined the game
+Sun May  2 14:46:13 2021	Manoubadou (STEAM_0:0:570620733) spawned
+Sun May  2 14:49:22 2021	Manoubadou (STEAM_0:0:570620733) spawned

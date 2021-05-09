@@ -1,0 +1,447 @@
+<Logging continued from "data/ulx_logs/05-01-21.txt">
+[10:07:33] Client "STG Seyy / Julie Scott" connected.
+[10:09:53] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 140 seconds).
+[10:10:29] (Console) granted god mode upon D 1515
+[10:11:18] D 1515: !noclip
+[10:13:44] D 1515: !ulx
+[10:13:47] D 1515: !menu
+[10:15:30] D 1515: !noclip
+[10:16:35] D 1515: !menu
+[10:17:17] D 1515: y!noclip
+[10:17:21] D 1515: !noclip
+[10:35:17] D 1515: /setspawn iasite
+[10:43:26] D 1515: /advert <c=255,0,0>SCP-106 Disponible pour une Expérience.</c>
+[10:43:26] (Console) granted god mode upon D 1515
+[10:53:35] D 1515: /scp
+[10:56:14] Server is shutting down/changing levels.
+
+
+
+[10:57:42] New map: rp_zone_tsade_v1f_fr
+[11:03:46] Client "STG Seyy / Julie Scott" connected.
+[11:04:11] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 25 seconds).
+[11:05:25] (Console) granted god mode upon D 1515
+[11:05:28] D 1515: /scp
+[11:05:32] D 1515: !scp
+[11:07:17] D 1515: !scpa
+[11:07:24] D 1515: !menu
+[11:07:41] D 1515<STEAM_0:0:128568350> spawned sent scp_alarms
+[11:13:22] Dropped "D 1515" from server<STEAM_0:0:128568350>
+[14:43:54] Client "Manoubadou" connected.
+[14:46:13] Client "Manoubadou" spawned in server <STEAM_0:0:570620733> (took 139 seconds).
+[14:51:42] Server is shutting down/changing levels.
+
+
+
+[14:52:29] New map: rp_zone_tsade_v1f_fr
+[14:52:29] Client "Manoubadou" connected.
+[14:52:29] Server is shutting down/changing levels.
+
+
+
+[14:53:15] New map: rp_zone_tsade_v1f_fr
+[14:53:46] Client "Manoubadou" connected.
+[14:54:02] Client "Manoubadou" spawned in server <STEAM_0:0:570620733> (took 16 seconds).
+[14:55:15] Client "STG Seyy / Julie Scott" connected.
+[14:57:26] Manoubadou: /name CMD U.T Lea Vasto
+[14:57:26] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 131 seconds).
+[14:59:56] (Console) granted god mode upon D 1515
+[15:00:05] D 1515 teleported to Manoubadou
+[15:00:13] (Console) revoked god mode from D 1515
+[15:00:38] Dropped "Manoubadou" from server<STEAM_0:0:570620733>
+[15:01:19] (Console) granted god mode upon D 1515
+[15:01:53] D 1515: !scpa
+[15:01:54] Client "Manoubadou" connected.
+[15:01:55] D 1515: !scp
+[15:02:36] D 1515: !noclip
+[15:03:20] D 1515: !scp
+[15:03:40] Client "Manoubadou" spawned in server <STEAM_0:0:570620733> (took 106 seconds).
+[15:06:01] D 1515: !scp
+[15:07:01] D 1515<STEAM_0:0:128568350> spawned model models/props_c17/furnituresink001a.mdl
+[15:07:21] D 1515: !noclip
+[15:07:27] D 1515 brought Manoubadou
+[15:07:32] D 1515: !scp
+[15:08:52] D 1515: !scp
+[15:09:24] D 1515: !scp
+[15:10:03] D 1515: !scp
+[15:10:52] D 1515: !scp
+[15:11:54] D 1515: /advert <c=255,0,0>SCP-106 Disponible pour une Expérience.</c>
+[15:11:55] (Console) granted god mode upon D 1515
+[15:11:58] D 1515: §CLOAK
+[15:12:01] D 1515 cloaked Themself by amount 0
+[15:12:01] D 1515: !cloak
+[15:12:05] D 1515 uncloaked Themself
+[15:12:05] D 1515: !uncloak
+[15:13:08] D 1515 teleported Manoubadou
+[15:13:08] D 1515: !tp ma
+[15:13:33] D 1515: !menu
+[15:17:45] D 1515 suicided!
+[15:17:45] (Console) revoked god mode from D 1515
+[15:17:51] Manoubadou suicided!
+[15:17:53] D 1515: /advert <c=255,0,0>SCP-106 Disponible pour une Expérience.</c>
+[15:18:06] D 1515: /na <c=255,0,0>SCP-035 Disponible pour une Expérience.</c>
+[15:18:07] (Console) granted god mode upon D 1515
+[15:18:24] D 1515: !noclip
+[15:19:22] D 1515 revoked god mode from Themself
+[15:19:22] D 1515: !ungod
+[15:19:28] (Console) revoked god mode from D 1515
+[15:20:02] D 1515 revoked god mode from Themself
+[15:20:02] D 1515: !ungod
+[15:20:09] (Console) granted god mode upon D 1515
+[15:20:21] D 1515: !noclip
+[15:22:03] D 1515<STEAM_0:0:128568350> spawned sent pfx4_00
+[15:22:51] D 1515<STEAM_0:0:128568350> spawned sent pfx5_00_alt_ss
+[15:23:01] D 1515<STEAM_0:0:128568350> spawned sent pfx5_00_alt
+[15:23:08] D 1515: !noclip
+[15:23:24] D 1515<STEAM_0:0:128568350> spawned sent sound_scp
+[15:23:54] D 1515<STEAM_0:0:128568350> spawned sent sound_nuke
+[15:23:58] D 1515<STEAM_0:0:128568350> spawned sent scp_alarms
+[15:24:43] D 1515: !noclip
+[15:28:17] D 1515: !menu
+[15:28:38] D 1515 added Manoubadou to group superadmin
+[15:28:44] Server is shutting down/changing levels.
+
+
+
+[15:30:13] New map: rp_zone_tsade_v1f_fr
+[15:30:40] Client "STG Seyy / Julie Scott" connected.
+[15:31:05] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 25 seconds).
+[15:31:10] Client "Manoubadou" connected.
+[15:31:34] Client "Manoubadou" spawned in server <STEAM_0:0:570620733> (took 24 seconds).
+[15:32:52] Dropped "D 1515" from server<STEAM_0:0:128568350>
+[15:33:20] (TEAM) Manoubadou: !noclip
+[15:34:49] Manoubadou: !noclip
+[15:35:02] Client "STG Seyy / Julie Scott" connected.
+[15:35:03] Manoubadou: !noclip
+[15:35:49] (TEAM) Manoubadou: !noclip
+[15:36:34] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 92 seconds).
+[15:37:29] (Console) granted god mode upon D 1515
+[15:38:16] D 1515: !menu
+[15:38:24] D 1515 played sound nuclearSimulation.mp3
+[15:38:34] Manoubadou: !noclip 
+[15:38:59] Manoubadou: !noclip
+[15:38:59] D 1515: !menu
+[15:39:20] (Console) played sound nuclearSimulation.mp3
+[15:39:47] Manoubadou: !noclip
+[15:39:54] (Console) granted god mode upon Manoubadou
+[15:40:05] D 1515 played sound SCPPresentation.mp3
+[15:41:02] (Console) revoked god mode from D 1515
+[15:41:04] D 1515 was killed by env_laser
+[15:41:09] (Console) granted god mode upon D 1515
+[15:41:13] D 1515 suicided!
+[15:41:13] (Console) revoked god mode from D 1515
+[15:41:19] (Console) granted god mode upon D 1515
+[15:41:24] D 1515: !battlepass
+[15:41:44] (Console) revoked god mode from Manoubadou
+[15:42:28] D 1515 teleported to Manoubadou
+[15:42:48] D 1515: !kill ma
+[15:43:50] (Console) granted god mode upon D 1515
+[15:44:15] D 1515: !noclip
+[15:44:45] (Console) revoked god mode from D 1515
+[15:46:03] (Console) granted god mode upon D 1515
+[15:47:03] D 1515: /advert <c=255,0,0>SCP-682 Disponible pour une Expérience.</c>
+[15:47:04] (Console) granted god mode upon D 1515
+[15:47:30] (Console) granted god mode upon D 1515
+[15:49:03] D 1515 brought Manoubadou
+[15:49:14] (TEAM) Manoubadou: !stagg
+[15:49:19] (Console) granted god mode upon Manoubadou
+[15:50:22] D 1515: !noclip
+[15:51:11] D 1515: !scp
+[15:52:05] D 1515 brought Manoubadou
+[15:52:41] D 1515: !noclip
+[15:52:59] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:00] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:00] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:00] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:01] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:01] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:01] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:01] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:01] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:01] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:02] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:38] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:38] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:38] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:38] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:39] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:39] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:39] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:39] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:39] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:39] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:39] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:40] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:40] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:40] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:40] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:40] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:40] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:41] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:41] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:41] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:41] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:41] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:41] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:42] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:42] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:42] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:42] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:47] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:47] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:47] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:48] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:48] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:48] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:48] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:48] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:48] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:48] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:53:57] D 1515: !scp
+[15:54:36] D 1515: !scp
+[15:56:11] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:11] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:11] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:11] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:11] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:11] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:12] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:12] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:12] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:12] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:12] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:13] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:13] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:13] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:13] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:13] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:14] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:14] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:14] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:14] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:14] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:15] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:15] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:15] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:15] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:15] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:15] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:16] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:16] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:16] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:17] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:17] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:17] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:17] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:17] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:17] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:18] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:18] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:18] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:18] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:18] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:19] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:19] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:19] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:19] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:19] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:20] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:20] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:20] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:20] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:21] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:21] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:21] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:21] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:21] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:22] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:22] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:22] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:22] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:22] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:23] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:23] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:23] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:23] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:23] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:24] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:24] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:24] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:24] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:24] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:25] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:25] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:25] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:25] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:25] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:29] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:30] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:30] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:30] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:30] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:30] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:30] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:31] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:31] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:31] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:31] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:31] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:31] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:32] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:32] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:32] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:32] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:32] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:33] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:33] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:33] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:33] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:33] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:48] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:49] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:49] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:49] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:49] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:49] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:49] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:50] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:50] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:50] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:50] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:50] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:51] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:51] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:51] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:51] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:51] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:51] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:52] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:52] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:52] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:52] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:52] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:53] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:53] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:53] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:53] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:53] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:54] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:54] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:54] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:54] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:54] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:55] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:55] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:55] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:55] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:55] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:56] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:56] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:56] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:56] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:56] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:57] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:57] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:57] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:57] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:57] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:58] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:58] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:58] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:58] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:58] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:58] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:59] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:59] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:59] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:59] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:56:59] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:57:01] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:57:02] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:57:02] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:57:02] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:57:02] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:57:02] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:57:03] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:58:08] D 1515: !tp all
+[15:58:11] D 1515 teleported Manoubadou
+[15:58:11] D 1515: !tp ma
+[15:58:27] D 1515 suicided!
+[15:58:27] (Console) revoked god mode from D 1515
+[15:58:37] (Console) granted god mode upon D 1515
+[15:58:55] D 1515 jailed Manoubadou for 60 seconds
+[15:59:11] D 1515 unjailed Manoubadou
+[15:59:14] Manoubadou froze D 1515
+[15:59:16] Manoubadou suicided!
+[15:59:16] D 1515 slayed Manoubadou
+[15:59:16] Manoubadou unfroze D 1515
+[15:59:16] (Console) revoked god mode from Manoubadou
+[15:59:23] D 1515: !noclip
+[15:59:28] (Console) granted god mode upon Manoubadou
+[15:59:40] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:41] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:41] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:41] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:41] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:41] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:42] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:42] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:42] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:42] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:42] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:42] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:42] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:43] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:43] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:43] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:43] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:43] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:44] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:44] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:44] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:44] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:44] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:49] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:49] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:50] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:50] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:50] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:50] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:50] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:50] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:50] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[15:59:55] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:02] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:02] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:02] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:02] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:02] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:02] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:03] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:03] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:03] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:03] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:03] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:03] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:04] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:04] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:04] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:04] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:04] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:05] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:05] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:05] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:05] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:06] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:06] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:06] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:06] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:06] D 1515<STEAM_0:0:128568350> spawned sent m9k_ammo_nuke
+[16:00:37] Manoubadou froze D 1515
+[16:00:38] Manoubadou unfroze D 1515
+[16:03:14] D 1515 kicked Manoubadou (TU FAIS CHIER SALOPE)
+[16:03:14] Dropped "Manoubadou" from server<STEAM_0:0:570620733>
+[16:28:02] (Console) revoked god mode from D 1515
+[16:28:05] (Console) granted god mode upon D 1515
+[16:30:20] Dropped "D 1515" from server<STEAM_0:0:128568350>
+<Logging continued in "data/ulx_logs/05-05-21.txt">

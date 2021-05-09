@@ -1,0 +1,280 @@
+<Logging continued from "data/ulx_logs/04-30-21.txt">
+[10:37:58] Server is shutting down/changing levels.
+
+
+
+[12:13:23] New map: rp_zone_tsade_v1f_fr
+[12:13:47] Client "STG Seyy / Julie Scott" connected.
+[12:14:32] Client "STG Seyy / Julie Scott" connected.
+[12:14:56] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 24 seconds).
+[12:17:05] (Console) granted god mode upon IAA
+[12:17:13] IAA: !noclip
+[12:17:19] IAA: !noclip
+[12:17:35] (Console) granted god mode upon IAA
+[12:18:07] IAA: !noclip
+[12:18:10] IAA cloaked Themself by amount 0
+[12:18:10] IAA: !cloak
+[12:18:26] (Console) granted god mode upon IAA
+[12:19:34] IAA: !level
+[12:25:04] (Console) granted god mode upon IAA
+[12:26:21] IAA<STEAM_0:0:128568350> spawned sent srp_tableau
+[12:26:38] IAA<STEAM_0:0:128568350> spawned sent deathscreen_npc
+[12:27:08] IAA suicided!
+[12:27:08] (Console) revoked god mode from IAA
+[12:27:15] (Console) granted god mode upon IAA
+[12:29:50] IAA: !lockdown
+[12:29:55] IAA: /lockdown
+[12:32:13] (Console) granted god mode upon IAA
+[12:35:05] Server is shutting down/changing levels.
+
+
+
+[12:36:55] New map: rp_zone_tsade_v1f_fr
+[12:52:09] Server is shutting down/changing levels.
+
+
+
+[12:53:00] New map: rp_zone_tsade_v1f_fr
+[12:55:10] Client "STG Seyy / Julie Scott" connected.
+[12:55:25] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 15 seconds).
+[12:56:09] (Console) granted god mode upon IAA
+[12:57:09] (Console) granted god mode upon IAA
+[12:58:42] Server is shutting down/changing levels.
+
+
+
+[12:59:38] New map: rp_zone_tsade_v1f_fr
+[12:59:43] Client "STG Seyy / Julie Scott" connected.
+[13:00:05] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 22 seconds).
+[13:01:23] (Console) granted god mode upon IAA
+[13:02:12] IAA: !noclip
+[13:02:22] IAA: !noclip
+[13:02:27] (Console) revoked god mode from IAA
+[13:03:59] (Console) granted god mode upon IAA
+[13:13:08] IAA<STEAM_0:0:128568350> spawned NPC npc_citizen
+[13:13:23] IAA<STEAM_0:0:128568350> spawned NPC npc_combine_s
+[13:13:36] IAA<STEAM_0:0:128568350> spawned NPC npc_tf2_ghost
+[13:13:49] IAA<STEAM_0:0:128568350> spawned NPC npc_citizen
+[13:13:56] IAA<STEAM_0:0:128568350> spawned NPC npc_combine_s
+[13:14:06] IAA<STEAM_0:0:128568350> spawned NPC npc_citizen
+[13:18:18] IAA: !bot
+[13:18:24] Client "Bot01" connected.
+[13:18:24] Client "Bot01" spawned in server <BOT> (took 1138 seconds).
+[13:18:27] Client "Bot02" connected.
+[13:18:27] Client "Bot02" spawned in server <BOT> (took 1141 seconds).
+[13:18:28] Client "Bot03" connected.
+[13:18:28] Client "Bot03" spawned in server <BOT> (took 1142 seconds).
+[13:18:29] Client "Bot04" connected.
+[13:18:29] Client "Bot04" spawned in server <BOT> (took 1143 seconds).
+[13:18:30] Client "Bot05" connected.
+[13:18:30] Client "Bot05" spawned in server <BOT> (took 1144 seconds).
+[13:18:31] Client "Bot06" connected.
+[13:18:31] Client "Bot06" spawned in server <BOT> (took 1145 seconds).
+[13:18:31] Client "Bot07" connected.
+[13:18:31] Client "Bot07" spawned in server <BOT> (took 1145 seconds).
+[13:18:32] Client "Bot08" connected.
+[13:18:32] Client "Bot08" spawned in server <BOT> (took 1146 seconds).
+[13:18:32] Client "Bot09" connected.
+[13:18:32] Client "Bot09" spawned in server <BOT> (took 1146 seconds).
+[13:18:33] Client "Bot10" connected.
+[13:18:33] Client "Bot10" spawned in server <BOT> (took 1147 seconds).
+[13:18:33] Client "Bot11" connected.
+[13:18:33] Client "Bot11" spawned in server <BOT> (took 1147 seconds).
+[13:18:33] Client "Bot12" connected.
+[13:18:33] Client "Bot12" spawned in server <BOT> (took 1147 seconds).
+[13:18:34] Client "Bot13" connected.
+[13:18:34] Client "Bot13" spawned in server <BOT> (took 1148 seconds).
+[13:18:34] Client "Bot14" connected.
+[13:18:34] Client "Bot14" spawned in server <BOT> (took 1148 seconds).
+[13:18:35] Client "Bot15" connected.
+[13:18:35] Client "Bot15" spawned in server <BOT> (took 1149 seconds).
+[13:18:35] Client "Bot16" connected.
+[13:18:35] Client "Bot16" spawned in server <BOT> (took 1149 seconds).
+[13:18:36] Client "Bot17" connected.
+[13:18:36] Client "Bot17" spawned in server <BOT> (took 1150 seconds).
+[13:18:36] Client "Bot18" connected.
+[13:18:36] Client "Bot18" spawned in server <BOT> (took 1150 seconds).
+[13:18:37] Client "Bot19" connected.
+[13:18:37] Client "Bot19" spawned in server <BOT> (took 1151 seconds).
+[13:18:37] Client "Bot20" connected.
+[13:18:37] Client "Bot20" spawned in server <BOT> (took 1151 seconds).
+[13:18:37] Client "Bot21" connected.
+[13:18:37] Client "Bot21" spawned in server <BOT> (took 1151 seconds).
+[13:18:38] Client "Bot22" connected.
+[13:18:38] Client "Bot22" spawned in server <BOT> (took 1152 seconds).
+[13:19:34] IAA: !noclip
+[13:20:11] IAA froze Bot18
+[13:20:15] IAA unfroze Bot18
+[13:20:56] IAA kicked Bot01
+[13:20:56] Dropped "Bot01" from server<BOT>
+[13:21:00] IAA kicked Bot02
+[13:21:00] Dropped "Bot02" from server<BOT>
+[13:21:05] IAA kicked Bot03
+[13:21:05] Dropped "Bot03" from server<BOT>
+[13:21:27] IAA<STEAM_0:0:128568350> spawned NPC npc_combine_s
+[13:21:37] IAA<STEAM_0:0:128568350> spawned NPC npc_combine_s
+[13:21:38] IAA<STEAM_0:0:128568350> spawned NPC npc_combine_s
+[13:21:39] IAA<STEAM_0:0:128568350> spawned NPC npc_combine_s
+[13:21:40] IAA<STEAM_0:0:128568350> spawned NPC npc_combine_s
+[13:22:20] IAA<STEAM_0:0:128568350> spawned NPC npc_combine_s
+[13:22:57] IAA: /na <c=255,0,0>SCP-106 Disponible pour une Expérience.</c>
+[13:23:25] (Console) granted god mode upon IAA
+[13:23:43] IAA: !tpall
+[13:23:47] IAA: !tp all
+[13:29:57] (Console) granted god mode upon IAA
+[13:30:33] Server is shutting down/changing levels.
+
+
+
+[13:31:43] New map: rp_zone_tsade_v1f_fr
+[13:31:44] Client "STG Seyy / Julie Scott" connected.
+[13:32:06] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 22 seconds).
+[13:33:28] (Console) granted god mode upon IAA
+[13:34:12] IAA: !noclip
+[13:38:02] IAA: !noclip
+[13:38:18] IAA: !noclip
+[13:38:54] Dropped "IAA" from server<STEAM_0:0:128568350>
+[15:00:45] Client "STG Seyy / Julie Scott" connected.
+[15:02:44] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 119 seconds).
+[15:03:18] (Console) granted god mode upon IAA
+[15:03:34] IAA: /setspawn classed
+[15:03:45] IAA: /setspawn classed
+[15:03:53] IAA: /setspawn classed
+[15:04:00] IAA: /setspawn classed
+[15:04:06] IAA: /setspawn classed
+[15:04:08] IAA suicided!
+[15:04:08] (Console) revoked god mode from IAA
+[15:04:21] IAA suicided!
+[15:04:42] IAA: /addspawn classed
+[15:04:47] IAA suicided!
+[15:05:01] IAA suicided!
+[15:05:24] IAA: !noclip
+[15:05:49] IAA: /setspawn chercheur_assistant
+[15:06:11] IAA: /setspawn chercheur_novice
+[15:06:20] IAA: /setspawn chercheur
+[15:06:28] IAA: /setspawn chercheur titulaire
+[15:06:38] IAA: /setspawn chercheur_titulaire
+[15:06:55] IAA: /setspawn chercheurspecialiste
+[15:07:04] IAA: /setspawn chercheur_conf
+[15:07:18] IAA: /setspawn chercheur_exp
+[15:07:24] (Console) granted god mode upon IAA
+[15:07:33] IAA: /setspawn sci_formateur
+[15:07:40] IAA: /setspawn sciformateur
+[15:08:03] IAA: /setspawn superviseur
+[15:08:16] IAA: !menu
+[15:14:02] IAA: !noclip
+[15:18:02] IAA: !noclip
+[15:26:58] IAA: YY
+[15:33:05] IAA: !noclip
+[15:37:33] (Console) granted god mode upon IAA
+[15:37:50] IAA: !noclip
+[15:43:07] IAA: !noclip
+[15:46:02] IAA: !noclip
+[15:59:05] IAA: !noclip
+[15:59:46] IAA: /setspawn dadadjoint
+[15:59:54] IAA: /setspawn dadjoint
+[16:00:08] IAA: /setspawn adjoint
+[16:00:18] IAA: !noclip
+[16:00:52] IAA: /setspawn secu_rgarde
+[16:01:03] IAA: /setspawn secu_garde
+[16:01:19] IAA: /setspawn lsecu_garde
+[16:01:34] IAA: /setspawn casecu_garde
+[16:01:48] IAA: /setspawn secu_lggarde
+[16:01:59] IAA: /setspawn secu_cgarde
+[16:02:15] IAA: !noclip
+[16:02:54] IAA: /setspawn secu_reagent
+[16:03:05] IAA: /setspawn secu_agent
+[16:03:17] IAA: /setspawn secu_caporal
+[16:03:30] IAA: /setspawn secu_caporalchef
+[16:03:39] IAA: /setspawn secu_sergent
+[16:03:50] IAA: /setspawn secu_sergentchef
+[16:04:04] IAA: /setspawn secu_adjudant
+[16:04:19] IAA: /setspawn secu_adjudantchef
+[16:04:33] IAA: /setspawn secu_major
+[16:04:45] IAA: /setspawn secu_eleve
+[16:04:54] IAA: /setspawn secu_sapirant
+[16:05:04] IAA: /setspawn secu_slieutnant
+[16:05:18] IAA: /setspawn secu_slieutenant
+[16:05:29] IAA: /setspawn secu_lieutenant
+[16:05:38] IAA: /setspawn secu_capitaine
+[16:05:51] IAA: /setspawn secu_commandant
+[16:06:24] IAA: /setspawn secu_lcolonel
+[16:06:34] IAA: /setspawn secu_colonel
+[16:06:48] IAA: /setspawn garde_generale
+[16:07:01] IAA: /setspawn secu_medecin
+[16:07:06] IAA: /setspawn secu_chien
+[16:07:14] IAA: /job secu_chien
+[16:07:25] IAA: /setjob secu_chien
+[16:07:32] IAA: !setjob secu_chien
+[16:07:45] IAA: /setspawn secu_spec
+[16:10:02] IAA: /setspawn secu_utrle
+[16:10:11] IAA: /setspawn secu_ utrlo
+[16:10:18] IAA: !noclip
+[16:12:11] IAA: /setspawn ia
+[16:12:19] IAA: /setspawn iasite
+[16:12:30] (TEAM) IAA: !noclip
+[16:13:02] IAA: /setspawn scp_999
+[16:21:18] IAA to admins: NON
+[16:39:10] IAA<STEAM_0:0:128568350> spawned model models/gibs/wood_gib01c.mdl
+[16:46:09] Client "Crazy Engineer" connected.
+[16:48:57] Client "Crazy Engineer" spawned in server <STEAM_0:1:6574922> (took 168 seconds).
+[16:50:41] Crazy Engineer: // Bonjour
+[16:51:30] Dropped "Crazy Engineer" from server<STEAM_0:1:6574922>
+[17:00:27] Dropped "IAA" from server<STEAM_0:0:128568350>
+[18:52:50] Client "STG Seyy / Julie Scott" connected.
+[18:55:07] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 137 seconds).
+[18:55:54] IAA: /name D-4654
+[18:56:03] IAA: /name D 1515
+[19:00:45] (Console) granted god mode upon D 1515
+[19:00:51] D 1515: /na <c=255,0,0>SCP-106 Disponible pour une Expérience.</c>
+[19:01:08] (Console) granted god mode upon D 1515
+[19:02:41] D 1515<STEAM_0:0:128568350> spawned NPC npc_crow
+[19:02:46] D 1515<STEAM_0:0:128568350> spawned NPC npc_monk
+[19:02:58] D 1515<STEAM_0:0:128568350> spawned NPC npc_pigeon
+[19:04:31] D 1515: !menu
+[19:04:53] D 1515 has set Themself level to 1000000
+[19:05:16] D 1515: /na <c=255,0,0>SCP-035 Disponible pour une Expérience.</c>
+[19:05:19] (Console) granted god mode upon D 1515
+[19:06:23] D 1515: !noclip
+[19:06:31] D 1515: /setspawn scp_106
+[19:06:48] D 1515: /setspawn scp-035
+[19:06:58] D 1515: /setspawn scp_035
+[19:07:27] D 1515: /setspawn scp_096
+[19:07:37] D 1515: !noclip
+[19:09:06] D 1515: !noclip
+[19:10:10] D 1515: /setspawn scp_006_fr
+[19:10:27] D 1515: /setspawn scp_006
+[19:10:32] D 1515: !noclip
+[19:11:09] D 1515: /setspawn scp_079
+[19:11:26] D 1515: /setspawn scp_939
+[19:11:39] D 1515: /setspawn scp_049
+[19:12:34] D 1515: /setspawn scp_999
+[19:12:39] D 1515: /setspawn scp_131
+[19:12:53] D 1515: /na <c=255,0,0>SCP-131 Disponible pour une Expérience.</c>
+[19:15:22] D 1515: /advert ttt
+[19:15:27] D 1515: /ad
+[19:15:36] D 1515: /advert
+[19:17:07] D 1515: !menu
+[19:17:23] (SILENT) D 1515 tried to run lua (SNTE blocked) : restart
+[19:18:30] Server is shutting down/changing levels.
+
+
+
+[19:19:34] New map: rp_zone_tsade_v1f_fr
+[19:19:48] Client "STG Seyy / Julie Scott" connected.
+[19:20:12] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 24 seconds).
+[19:21:24] D 1515: /na tt
+[19:21:29] D 1515: /advert ...
+[19:21:33] D 1515: /ad dd
+[19:22:49] Server is shutting down/changing levels.
+
+
+
+[19:23:40] New map: rp_zone_tsade_v1f_fr
+[19:23:44] Client "STG Seyy / Julie Scott" connected.
+[19:24:00] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 16 seconds).
+[19:24:40] (Console) granted god mode upon D 1515
+[19:24:52] D 1515: /advert <c=255,0,0>SCP-096 Disponible pour une Expérience.</c>
+[19:24:54] (Console) granted god mode upon D 1515
+[19:25:30] Dropped "D 1515" from server<STEAM_0:0:128568350>
+<Logging continued in "data/ulx_logs/05-02-21.txt">

@@ -1,0 +1,17 @@
+Sat May  1 12:14:56 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Sat May  1 12:14:56 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 12:17:13 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 12:17:19 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 12:17:33 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 12:18:07 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 12:18:10 2021	IAA (STEAM_0:0:128568350): !cloak
+Sat May  1 12:18:24 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 12:19:34 2021	IAA (STEAM_0:0:128568350): !level
+Sat May  1 12:25:02 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 12:26:21 2021	IAA (STEAM_0:0:128568350) spawned SENT srp_tableau
+Sat May  1 12:26:38 2021	IAA (STEAM_0:0:128568350) spawned SENT deathscreen_npc
+Sat May  1 12:27:08 2021	IAA was killed by Himself with a suicide trick
+Sat May  1 12:27:11 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 12:29:50 2021	IAA (STEAM_0:0:128568350): !lockdown
+Sat May  1 12:29:55 2021	IAA (STEAM_0:0:128568350): /lockdown
+Sat May  1 12:30:15 2021	IAA (STEAM_0:0:128568350) spawned

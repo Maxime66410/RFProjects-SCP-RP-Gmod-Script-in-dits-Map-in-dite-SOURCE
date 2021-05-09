@@ -1,0 +1,72 @@
+Sat May  1 13:00:05 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Sat May  1 13:00:05 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 13:02:12 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 13:02:22 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 13:02:27 2021	IAA (STEAM_0:0:128568350): 
+Sat May  1 13:03:57 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 13:13:08 2021	IAA (STEAM_0:0:128568350) spawned NPC npc_citizen
+Sat May  1 13:13:23 2021	IAA (STEAM_0:0:128568350) spawned NPC npc_combine_s
+Sat May  1 13:13:36 2021	IAA (STEAM_0:0:128568350) spawned NPC npc_tf2_ghost
+Sat May  1 13:13:49 2021	IAA (STEAM_0:0:128568350) spawned NPC npc_citizen
+Sat May  1 13:13:56 2021	IAA (STEAM_0:0:128568350) spawned NPC npc_combine_s
+Sat May  1 13:14:06 2021	IAA (STEAM_0:0:128568350) spawned NPC npc_citizen
+Sat May  1 13:18:18 2021	IAA (STEAM_0:0:128568350): !bot
+Sat May  1 13:18:24 2021	Bot01 (BOT) has joined the game
+Sat May  1 13:18:24 2021	Bot01 (BOT) spawned
+Sat May  1 13:18:27 2021	Bot02 (BOT) has joined the game
+Sat May  1 13:18:27 2021	Bot02 (BOT) spawned
+Sat May  1 13:18:28 2021	Bot03 (BOT) has joined the game
+Sat May  1 13:18:28 2021	Bot03 (BOT) spawned
+Sat May  1 13:18:29 2021	Bot04 (BOT) has joined the game
+Sat May  1 13:18:29 2021	Bot04 (BOT) spawned
+Sat May  1 13:18:30 2021	Bot05 (BOT) has joined the game
+Sat May  1 13:18:30 2021	Bot05 (BOT) spawned
+Sat May  1 13:18:31 2021	Bot06 (BOT) has joined the game
+Sat May  1 13:18:31 2021	Bot06 (BOT) spawned
+Sat May  1 13:18:31 2021	Bot07 (BOT) has joined the game
+Sat May  1 13:18:31 2021	Bot07 (BOT) spawned
+Sat May  1 13:18:32 2021	Bot08 (BOT) has joined the game
+Sat May  1 13:18:32 2021	Bot08 (BOT) spawned
+Sat May  1 13:18:32 2021	Bot09 (BOT) has joined the game
+Sat May  1 13:18:32 2021	Bot09 (BOT) spawned
+Sat May  1 13:18:33 2021	Bot10 (BOT) has joined the game
+Sat May  1 13:18:33 2021	Bot10 (BOT) spawned
+Sat May  1 13:18:33 2021	Bot11 (BOT) has joined the game
+Sat May  1 13:18:33 2021	Bot11 (BOT) spawned
+Sat May  1 13:18:33 2021	Bot12 (BOT) has joined the game
+Sat May  1 13:18:33 2021	Bot12 (BOT) spawned
+Sat May  1 13:18:34 2021	Bot13 (BOT) has joined the game
+Sat May  1 13:18:34 2021	Bot13 (BOT) spawned
+Sat May  1 13:18:34 2021	Bot14 (BOT) has joined the game
+Sat May  1 13:18:34 2021	Bot14 (BOT) spawned
+Sat May  1 13:18:35 2021	Bot15 (BOT) has joined the game
+Sat May  1 13:18:35 2021	Bot15 (BOT) spawned
+Sat May  1 13:18:35 2021	Bot16 (BOT) has joined the game
+Sat May  1 13:18:35 2021	Bot16 (BOT) spawned
+Sat May  1 13:18:36 2021	Bot17 (BOT) has joined the game
+Sat May  1 13:18:36 2021	Bot17 (BOT) spawned
+Sat May  1 13:18:36 2021	Bot18 (BOT) has joined the game
+Sat May  1 13:18:36 2021	Bot18 (BOT) spawned
+Sat May  1 13:18:37 2021	Bot19 (BOT) has joined the game
+Sat May  1 13:18:37 2021	Bot19 (BOT) spawned
+Sat May  1 13:18:37 2021	Bot20 (BOT) has joined the game
+Sat May  1 13:18:37 2021	Bot20 (BOT) spawned
+Sat May  1 13:18:38 2021	Bot21 (BOT) has joined the game
+Sat May  1 13:18:38 2021	Bot21 (BOT) spawned
+Sat May  1 13:18:38 2021	Bot22 (BOT) has joined the game
+Sat May  1 13:18:38 2021	Bot22 (BOT) spawned
+Sat May  1 13:19:34 2021	IAA (STEAM_0:0:128568350): !noclip
+Sat May  1 13:20:56 2021	Bot01 (BOT) disconnected
+Sat May  1 13:21:00 2021	Bot02 (BOT) disconnected
+Sat May  1 13:21:05 2021	Bot03 (BOT) disconnected
+Sat May  1 13:21:27 2021	IAA (STEAM_0:0:128568350) spawned NPC npc_combine_s
+Sat May  1 13:21:37 2021	IAA (STEAM_0:0:128568350) spawned NPC npc_combine_s
+Sat May  1 13:21:38 2021	IAA (STEAM_0:0:128568350) spawned NPC npc_combine_s
+Sat May  1 13:21:39 2021	IAA (STEAM_0:0:128568350) spawned NPC npc_combine_s
+Sat May  1 13:21:40 2021	IAA (STEAM_0:0:128568350) spawned NPC npc_combine_s
+Sat May  1 13:22:20 2021	IAA (STEAM_0:0:128568350) spawned NPC npc_combine_s
+Sat May  1 13:22:57 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 13:22:57 2021	IAA (STEAM_0:0:128568350): /na <c=255,0,0>SCP-106 Disponible pour une Expérience.</c>
+Sat May  1 13:23:43 2021	IAA (STEAM_0:0:128568350): !tpall
+Sat May  1 13:23:47 2021	IAA (STEAM_0:0:128568350): !tp all
+Sat May  1 13:29:51 2021	IAA (STEAM_0:0:128568350) spawned

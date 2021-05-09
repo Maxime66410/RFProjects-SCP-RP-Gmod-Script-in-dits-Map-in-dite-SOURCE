@@ -1,0 +1,13 @@
+Thu Apr 29 20:08:08 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Thu Apr 29 20:08:08 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) spawned
+Thu Apr 29 20:08:38 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350): /drop 1
+Thu Apr 29 20:08:44 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350): /dropmoney 1
+Thu Apr 29 20:08:45 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has dropped $1
+Thu Apr 29 20:08:56 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350): !hudmaker
+Thu Apr 29 20:09:55 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350): !hudmaker
+Thu Apr 29 20:22:40 2021	STG Seyy / Julie Scott was killed by Entity [0][worldspawn] with a unknown
+Thu Apr 29 20:22:42 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) spawned
+Thu Apr 29 20:28:32 2021	STG Seyy / Julie Scott was killed by Entity [0][worldspawn] with a unknown
+Thu Apr 29 20:31:09 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) spawned
+Thu Apr 29 20:31:17 2021	STG Seyy / Julie Scott was killed by Entity [0][worldspawn] with a unknown
+Thu Apr 29 20:31:19 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) disconnected

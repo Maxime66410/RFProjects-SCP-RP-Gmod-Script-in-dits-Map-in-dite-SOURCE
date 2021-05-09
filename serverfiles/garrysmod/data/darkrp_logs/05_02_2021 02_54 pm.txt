@@ -1,0 +1,52 @@
+Sun May  2 14:54:02 2021	Manoubadou (STEAM_0:0:570620733) has joined the game
+Sun May  2 14:54:02 2021	Manoubadou (STEAM_0:0:570620733) spawned
+Sun May  2 14:56:40 2021	Manoubadou (STEAM_0:0:570620733) spawned
+Sun May  2 14:57:26 2021	Manoubadou (STEAM_0:0:570620733): /name CMD U.T Lea Vasto
+Sun May  2 14:57:26 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Sun May  2 14:57:26 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 15:00:13 2021	D 1515 (STEAM_0:0:128568350): 
+Sun May  2 15:00:38 2021	Manoubadou (STEAM_0:0:570620733) disconnected
+Sun May  2 15:00:58 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 15:01:53 2021	D 1515 (STEAM_0:0:128568350): !scpa
+Sun May  2 15:01:55 2021	D 1515 (STEAM_0:0:128568350): !scp
+Sun May  2 15:02:36 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sun May  2 15:03:20 2021	D 1515 (STEAM_0:0:128568350): !scp
+Sun May  2 15:03:40 2021	Manoubadou (STEAM_0:0:570620733) has joined the game
+Sun May  2 15:03:40 2021	Manoubadou (STEAM_0:0:570620733) spawned
+Sun May  2 15:05:26 2021	Manoubadou (STEAM_0:0:570620733) spawned
+Sun May  2 15:06:01 2021	D 1515 (STEAM_0:0:128568350): !scp
+Sun May  2 15:07:21 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sun May  2 15:07:32 2021	D 1515 (STEAM_0:0:128568350): !scp
+Sun May  2 15:08:52 2021	D 1515 (STEAM_0:0:128568350): !scp
+Sun May  2 15:09:24 2021	D 1515 (STEAM_0:0:128568350): !scp
+Sun May  2 15:10:03 2021	D 1515 (STEAM_0:0:128568350): !scp
+Sun May  2 15:10:52 2021	D 1515 (STEAM_0:0:128568350): !scp
+Sun May  2 15:11:54 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 15:11:54 2021	D 1515 (STEAM_0:0:128568350): /advert <c=255,0,0>SCP-106 Disponible pour une Expérience.</c>
+Sun May  2 15:11:58 2021	D 1515 (STEAM_0:0:128568350): §CLOAK
+Sun May  2 15:12:01 2021	D 1515 (STEAM_0:0:128568350): !cloak
+Sun May  2 15:12:05 2021	D 1515 (STEAM_0:0:128568350): !uncloak
+Sun May  2 15:13:08 2021	D 1515 (STEAM_0:0:128568350): !tp ma
+Sun May  2 15:13:33 2021	D 1515 (STEAM_0:0:128568350): !menu
+Sun May  2 15:17:45 2021	D 1515 was killed by Himself with a suicide trick
+Sun May  2 15:17:51 2021	Manoubadou was killed by Himself with a suicide trick
+Sun May  2 15:17:53 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 15:17:53 2021	D 1515 (STEAM_0:0:128568350): /advert <c=255,0,0>SCP-106 Disponible pour une Expérience.</c>
+Sun May  2 15:17:55 2021	Manoubadou (STEAM_0:0:570620733) spawned
+Sun May  2 15:18:06 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 15:18:06 2021	D 1515 (STEAM_0:0:128568350): /na <c=255,0,0>SCP-035 Disponible pour une Expérience.</c>
+Sun May  2 15:18:24 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sun May  2 15:19:22 2021	D 1515 (STEAM_0:0:128568350): !ungod
+Sun May  2 15:19:28 2021	D 1515 (STEAM_0:0:128568350): 
+Sun May  2 15:20:02 2021	D 1515 (STEAM_0:0:128568350): !ungod
+Sun May  2 15:20:21 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sun May  2 15:20:26 2021	Manoubadou (STEAM_0:0:570620733): 
+Sun May  2 15:22:03 2021	D 1515 (STEAM_0:0:128568350) spawned SENT pfx4_00
+Sun May  2 15:22:51 2021	D 1515 (STEAM_0:0:128568350) spawned SENT pfx5_00_alt_ss
+Sun May  2 15:23:01 2021	D 1515 (STEAM_0:0:128568350) spawned SENT pfx5_00_alt
+Sun May  2 15:23:08 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sun May  2 15:23:24 2021	D 1515 (STEAM_0:0:128568350) spawned SENT sound_scp
+Sun May  2 15:23:54 2021	D 1515 (STEAM_0:0:128568350) spawned SENT sound_nuke
+Sun May  2 15:23:58 2021	D 1515 (STEAM_0:0:128568350) spawned SENT scp_alarms
+Sun May  2 15:24:43 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sun May  2 15:28:17 2021	D 1515 (STEAM_0:0:128568350): !menu

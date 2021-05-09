@@ -1,0 +1,1 @@
+{"default":{"kill":false,"color":{"r":200.0,"b":0.0,"a":255.0,"g":0.0},"text":"This is the default drink"}}

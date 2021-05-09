@@ -1,0 +1,38 @@
+Fri Apr 30 19:51:52 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Fri Apr 30 19:51:52 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) spawned
+Fri Apr 30 19:52:42 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350): !edgehud_config
+Fri Apr 30 19:53:45 2021	STG Seyy / Julie Scott was killed by Entity [0][worldspawn] with a unknown
+Fri Apr 30 19:53:48 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) spawned
+Fri Apr 30 19:53:52 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350): !level
+Fri Apr 30 19:53:58 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350): /level
+Fri Apr 30 19:54:11 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350): !edgehud_config
+Fri Apr 30 19:55:02 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350): /name IAA 
+Fri Apr 30 19:57:37 2021	IAA (STEAM_0:0:128568350): /addspawn civil
+Fri Apr 30 19:58:07 2021	IAA was killed by Entity [0][worldspawn] with a unknown
+Fri Apr 30 19:58:09 2021	IAA (STEAM_0:0:128568350) spawned
+Fri Apr 30 19:58:35 2021	IAA (STEAM_0:0:128568350): /addspawn assistant
+Fri Apr 30 19:58:47 2021	IAA (STEAM_0:0:128568350): /addspawn chercheur01
+Fri Apr 30 19:58:59 2021	IAA (STEAM_0:0:128568350): /addspawn chercheurbio
+Fri Apr 30 19:59:16 2021	IAA (STEAM_0:0:128568350): /addspawn chercheurphy
+Fri Apr 30 19:59:29 2021	IAA (STEAM_0:0:128568350): /addspawn chercheurbiophy
+Fri Apr 30 19:59:41 2021	IAA (STEAM_0:0:128568350): /addspawn chercheursenior
+Fri Apr 30 19:59:59 2021	IAA (STEAM_0:0:128568350): /addspawn spviseurbio
+Fri Apr 30 20:00:16 2021	IAA (STEAM_0:0:128568350): /addspawn spviseurphy
+Fri Apr 30 20:00:30 2021	IAA (STEAM_0:0:128568350): /addspawn spviseurbiophy
+Fri Apr 30 20:00:45 2021	IAA (STEAM_0:0:128568350): /addspawn professeur
+Fri Apr 30 20:01:13 2021	IAA (STEAM_0:0:128568350): /addspawn spviseurgrprecherche
+Fri Apr 30 20:01:53 2021	IAA (STEAM_0:0:128568350): /addspawn dapdr
+Fri Apr 30 20:02:11 2021	IAA (STEAM_0:0:128568350): /addspawn dpdr
+Fri Apr 30 20:02:50 2021	IAA (STEAM_0:0:128568350): /addspawn drdusite
+Fri Apr 30 20:04:43 2021	IAA (STEAM_0:0:128568350): /addspawn cadet
+Fri Apr 30 20:04:47 2021	IAA (STEAM_0:0:128568350): /addspawn agent
+Fri Apr 30 20:04:57 2021	IAA (STEAM_0:0:128568350): /addspawn um
+Fri Apr 30 20:05:02 2021	IAA (STEAM_0:0:128568350): /addspawn ait
+Fri Apr 30 20:05:10 2021	IAA (STEAM_0:0:128568350): /addspawn ur
+Fri Apr 30 20:05:24 2021	IAA (STEAM_0:0:128568350): /addspawn commandant05
+Fri Apr 30 20:05:41 2021	IAA (STEAM_0:0:128568350): /addspawn agentfim
+Fri Apr 30 20:05:49 2021	IAA (STEAM_0:0:128568350): /addspawn cmdait
+Fri Apr 30 20:05:58 2021	IAA (STEAM_0:0:128568350): /addspawn cmdur
+Fri Apr 30 20:06:04 2021	IAA (STEAM_0:0:128568350): /addspawn cmdum
+Fri Apr 30 20:06:29 2021	IAA (STEAM_0:0:128568350): /addspawn iafondation
+Fri Apr 30 20:07:21 2021	IAA (STEAM_0:0:128568350) disconnected

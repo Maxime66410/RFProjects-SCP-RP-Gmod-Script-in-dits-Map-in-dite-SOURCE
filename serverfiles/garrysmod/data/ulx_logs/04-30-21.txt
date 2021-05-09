@@ -1,0 +1,55 @@
+<Logging continued from "data/ulx_logs/04-29-21.txt">
+[14:10:48] Server is shutting down/changing levels.
+
+
+
+[14:19:23] New map: rp_site65
+[14:23:00] Server is shutting down/changing levels.
+
+
+
+[14:24:25] New map: rp_site65
+[14:26:33] Client "STG Seyy / Julie Scott" connected.
+[14:27:53] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 80 seconds).
+[14:34:22] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned model models/player/scp096.mdl
+[14:34:36] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned ragdoll models/scp096anim/player/scp096pm_raf.mdl
+[14:36:12] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned model models/props_junk/glassbottle01a.mdl
+[14:36:17] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned model models/props_junk/glassbottle01a.mdl
+[14:36:28] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned model models/props_junk/glassbottle01a.mdl
+[14:36:31] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned model models/props_junk/glassbottle01a.mdl
+[14:36:31] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned model models/props_junk/glassbottle01a.mdl
+[14:36:32] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned model models/props_junk/glassbottle01a.mdl
+[14:36:34] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned model models/props_junk/glassbottle01a.mdl
+[14:36:36] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned model models/props_junk/glassbottle01a.mdl
+[14:46:12] STG Seyy / Julie Scott to admins: Test
+[14:51:38] (SILENT) STG Seyy / Julie Scott ran lua: restart
+[14:51:43] (SILENT) STG Seyy / Julie Scott ran rcon command: restart
+[14:52:19] Server is shutting down/changing levels.
+
+
+
+[14:53:11] New map: rp_site65
+[14:54:07] Client "STG Seyy / Julie Scott" connected.
+[14:54:49] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 42 seconds).
+[14:58:04] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned model models/player/scp096.mdl
+[15:00:31] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned ragdoll models/scp/999/jq/scp_999_pmjq.mdl
+[15:02:16] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned model models/breach173.mdl
+[15:02:22] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned model models/player/scp/173/scp.mdl
+[15:13:35] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned sent drone_rentity
+[15:14:13] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned sent drone_sentity
+[15:15:16] STG Seyy / Julie Scott<STEAM_0:0:128568350> spawned sent drone_nentity
+[15:17:33] STG Seyy / Julie Scott suicided!
+[15:23:53] Dropped "STG Seyy / Julie Scott" from server<STEAM_0:0:128568350>
+[17:29:17] Client "STG Seyy / Julie Scott" connected.
+[17:30:43] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 86 seconds).
+[17:31:50] Dropped "STG Seyy / Julie Scott" from server<STEAM_0:0:128568350>
+[19:39:41] Server is shutting down/changing levels.
+
+
+
+[19:40:39] New map: rp_site65
+[19:50:26] Client "STG Seyy / Julie Scott" connected.
+[19:51:52] Client "STG Seyy / Julie Scott" spawned in server <STEAM_0:0:128568350> (took 86 seconds).
+[19:55:03] STG Seyy / Julie Scott<STEAM_0:0:128568350> changed their name to IAA
+[20:07:21] Dropped "IAA" from server<STEAM_0:0:128568350>
+<Logging continued in "data/ulx_logs/05-01-21.txt">

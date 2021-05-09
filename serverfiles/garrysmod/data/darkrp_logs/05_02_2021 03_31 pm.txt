@@ -1,0 +1,325 @@
+Sun May  2 15:31:05 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Sun May  2 15:31:05 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 15:31:34 2021	Manoubadou (STEAM_0:0:570620733) has joined the game
+Sun May  2 15:31:34 2021	Manoubadou (STEAM_0:0:570620733) spawned
+Sun May  2 15:32:52 2021	D 1515 (STEAM_0:0:128568350) disconnected
+Sun May  2 15:33:20 2021	Manoubadou (STEAM_0:0:570620733): !noclip
+Sun May  2 15:34:49 2021	Manoubadou (STEAM_0:0:570620733): !noclip
+Sun May  2 15:35:03 2021	Manoubadou (STEAM_0:0:570620733): !noclip
+Sun May  2 15:35:49 2021	Manoubadou (STEAM_0:0:570620733): !noclip
+Sun May  2 15:36:34 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Sun May  2 15:36:34 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 15:36:45 2021	Manoubadou (STEAM_0:0:570620733) spawned
+Sun May  2 15:38:16 2021	D 1515 (STEAM_0:0:128568350): !menu
+Sun May  2 15:38:34 2021	Manoubadou (STEAM_0:0:570620733): !noclip 
+Sun May  2 15:38:48 2021	Manoubadou (STEAM_0:0:570620733) spawned
+Sun May  2 15:38:59 2021	Manoubadou (STEAM_0:0:570620733): !noclip
+Sun May  2 15:38:59 2021	D 1515 (STEAM_0:0:128568350): !menu
+Sun May  2 15:39:47 2021	Manoubadou (STEAM_0:0:570620733): !noclip
+Sun May  2 15:41:02 2021	D 1515 (STEAM_0:0:128568350): 
+Sun May  2 15:41:04 2021	D 1515 was killed by Entity [4465][env_laser] with a env_laser
+Sun May  2 15:41:07 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 15:41:13 2021	D 1515 was killed by Himself with a suicide trick
+Sun May  2 15:41:16 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 15:41:24 2021	D 1515 (STEAM_0:0:128568350): !battlepass
+Sun May  2 15:41:44 2021	Manoubadou (STEAM_0:0:570620733): 
+Sun May  2 15:42:48 2021	D 1515 (STEAM_0:0:128568350): !kill ma
+Sun May  2 15:43:48 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 15:44:15 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sun May  2 15:44:45 2021	D 1515 (STEAM_0:0:128568350): 
+Sun May  2 15:47:03 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 15:47:03 2021	D 1515 (STEAM_0:0:128568350): /advert <c=255,0,0>SCP-682 Disponible pour une Expérience.</c>
+Sun May  2 15:47:27 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 15:49:14 2021	Manoubadou (STEAM_0:0:570620733): !stagg
+Sun May  2 15:49:19 2021	Manoubadou (STEAM_0:0:570620733): 
+Sun May  2 15:50:22 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sun May  2 15:51:11 2021	D 1515 (STEAM_0:0:128568350): !scp
+Sun May  2 15:52:41 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sun May  2 15:52:59 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:00 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:00 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:00 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:01 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:01 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:01 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:01 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:01 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:01 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:02 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:38 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:38 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:38 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:38 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:39 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:39 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:39 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:39 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:39 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:39 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:39 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:40 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:40 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:40 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:40 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:40 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:40 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:41 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:41 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:41 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:41 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:41 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:41 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:42 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:42 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:42 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:42 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:47 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:47 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:47 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:48 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:48 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:48 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:48 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:48 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:48 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:48 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:53:57 2021	D 1515 (STEAM_0:0:128568350): !scp
+Sun May  2 15:54:36 2021	D 1515 (STEAM_0:0:128568350): !scp
+Sun May  2 15:56:11 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:11 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:11 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:11 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:11 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:11 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:12 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:12 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:12 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:12 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:12 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:13 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:13 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:13 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:13 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:13 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:14 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:14 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:14 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:14 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:14 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:15 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:15 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:15 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:15 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:15 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:16 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:16 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:16 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:16 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:17 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:17 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:17 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:17 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:17 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:17 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:18 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:18 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:18 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:18 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:18 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:19 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:19 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:19 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:19 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:19 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:20 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:20 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:20 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:20 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:21 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:21 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:21 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:21 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:21 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:22 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:22 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:22 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:22 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:22 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:23 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:23 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:23 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:23 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:23 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:24 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:24 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:24 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:24 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:24 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:25 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:25 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:25 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:25 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:25 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:29 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:30 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:30 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:30 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:30 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:30 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:30 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:31 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:31 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:31 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:31 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:31 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:31 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:32 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:32 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:32 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:32 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:32 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:33 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:33 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:33 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:33 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:33 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:48 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:49 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:49 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:49 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:49 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:49 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:49 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:50 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:50 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:50 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:50 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:50 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:51 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:51 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:51 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:51 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:51 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:51 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:52 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:52 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:52 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:52 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:52 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:53 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:53 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:53 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:53 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:53 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:54 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:54 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:54 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:54 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:54 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:55 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:55 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:55 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:55 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:55 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:56 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:56 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:56 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:56 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:56 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:57 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:57 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:57 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:57 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:57 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:58 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:58 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:58 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:58 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:58 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:58 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:59 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:59 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:59 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:59 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:56:59 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:57:01 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:57:02 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:57:02 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:57:02 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:57:02 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:57:02 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:57:03 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:58:08 2021	D 1515 (STEAM_0:0:128568350): !tp all
+Sun May  2 15:58:11 2021	D 1515 (STEAM_0:0:128568350): !tp ma
+Sun May  2 15:58:27 2021	D 1515 was killed by Himself with a suicide trick
+Sun May  2 15:58:30 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 15:59:16 2021	Manoubadou was killed by Himself with a suicide trick
+Sun May  2 15:59:19 2021	Manoubadou (STEAM_0:0:570620733) spawned
+Sun May  2 15:59:23 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sun May  2 15:59:28 2021	Manoubadou (STEAM_0:0:570620733): 
+Sun May  2 15:59:40 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:41 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:41 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:41 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:41 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:41 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:42 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:42 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:42 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:42 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:42 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:42 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:42 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:43 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:43 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:43 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:43 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:43 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:44 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:44 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:44 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:44 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:44 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:49 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:49 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:50 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:50 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:50 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:50 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:50 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:50 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:50 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 15:59:55 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:02 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:02 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:02 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:02 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:02 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:02 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:03 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:03 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:03 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:03 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:03 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:03 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:04 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:04 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:04 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:04 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:04 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:05 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:05 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:05 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:05 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:06 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:06 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:06 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:06 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:00:06 2021	D 1515 (STEAM_0:0:128568350) spawned SENT m9k_ammo_nuke
+Sun May  2 16:03:14 2021	Manoubadou (STEAM_0:0:570620733) disconnected
+Sun May  2 16:28:02 2021	D 1515 (STEAM_0:0:128568350): 
+Sun May  2 16:28:05 2021	D 1515 (STEAM_0:0:128568350): 
+Sun May  2 16:30:20 2021	D 1515 (STEAM_0:0:128568350) disconnected
+Wed May  5 18:25:51 2021	ГУВНЕР (STEAM_0:1:463057327) has joined the game
+Wed May  5 18:25:51 2021	ГУВНЕР (STEAM_0:1:463057327) spawned
+Wed May  5 18:30:36 2021	ГУВНЕР (STEAM_0:1:463057327) disconnected

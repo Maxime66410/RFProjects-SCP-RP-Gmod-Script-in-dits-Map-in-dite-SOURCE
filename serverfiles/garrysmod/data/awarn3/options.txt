@@ -1,0 +1,68 @@
+{
+	"awarn_logging": {
+		"type": "boolean",
+		"description": "If enabled, AWarn will log actions to a data file.",
+		"name": "awarn_logging",
+		"value": true
+	},
+	"awarn_decayrate": {
+		"type": "integer",
+		"description": "How often (in minutes) an active warning decays for a player.",
+		"name": "awarn_decayrate",
+		"value": 30.0
+	},
+	"awarn_reasonrequired": {
+		"type": "boolean",
+		"description": "If enabled, a warning must be provided when warning a player.",
+		"name": "awarn_reasonrequired",
+		"value": true
+	},
+	"awarn_server_name": {
+		"type": "string",
+		"description": "Server name for multi-server support",
+		"name": "awarn_server_name",
+		"value": "RFProjects SCP RP"
+	},
+	"awarn_server_language": {
+		"type": "string",
+		"description": "Language all server messages will be in.",
+		"name": "awarn_server_language",
+		"value": "FR"
+	},
+	"awarn_kick": {
+		"type": "boolean",
+		"description": "Allow AWarn to kick players.",
+		"name": "awarn_kick",
+		"value": true
+	},
+	"awarn_chat_prefix": {
+		"type": "string",
+		"description": "Chat command to warn players and open the warning menu.",
+		"name": "awarn_chat_prefix",
+		"value": "!casier"
+	},
+	"awarn_allow_warn_admins": {
+		"type": "boolean",
+		"description": "If enabled, admins will be able to warn other admins.",
+		"name": "awarn_allow_warn_admins",
+		"value": true
+	},
+	"awarn_decay": {
+		"type": "boolean",
+		"description": "If enabled, active warnings will decay over time.",
+		"name": "awarn_decay",
+		"value": true
+	},
+	"awarn_ban": {
+		"type": "boolean",
+		"description": "Allow AWarn to ban players",
+		"name": "awarn_ban",
+		"value": true
+	},
+	"awarn_reset_after_ban": {
+		"type": "boolean",
+		"description": "If enabled, a player's active warnings will be reset to 0 after being banned by awarn. Recommend disabled if using multiple levels of banning.",
+		"name": "awarn_reset_after_ban",
+		"value": false
+	}
+}

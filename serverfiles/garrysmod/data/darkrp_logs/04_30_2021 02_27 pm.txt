@@ -1,0 +1,10 @@
+Fri Apr 30 14:27:53 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Fri Apr 30 14:27:53 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) spawned
+Fri Apr 30 14:28:30 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350): !edge
+Fri Apr 30 14:29:16 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350): !edgehud_config
+Fri Apr 30 14:37:43 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350): !edgehud_config
+Fri Apr 30 14:38:49 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350): !edgescoreboard_config
+Fri Apr 30 14:42:28 2021	STG Seyy / Julie Scott was killed by Entity [0][worldspawn] with a unknown
+Fri Apr 30 14:42:30 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) spawned
+Fri Apr 30 14:46:22 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350): !warn
+Fri Apr 30 14:51:25 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350): !menu

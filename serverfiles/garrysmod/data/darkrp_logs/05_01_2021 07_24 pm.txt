@@ -1,0 +1,18 @@
+Sat May  1 19:24:00 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Sat May  1 19:24:00 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sat May  1 19:24:52 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sat May  1 19:24:52 2021	D 1515 (STEAM_0:0:128568350): /advert <c=255,0,0>SCP-096 Disponible pour une Expérience.</c>
+Sat May  1 19:25:30 2021	D 1515 (STEAM_0:0:128568350) disconnected
+Sun May  2 10:09:53 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Sun May  2 10:09:53 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 10:11:18 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sun May  2 10:13:44 2021	D 1515 (STEAM_0:0:128568350): !ulx
+Sun May  2 10:13:47 2021	D 1515 (STEAM_0:0:128568350): !menu
+Sun May  2 10:15:30 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sun May  2 10:16:35 2021	D 1515 (STEAM_0:0:128568350): !menu
+Sun May  2 10:17:17 2021	D 1515 (STEAM_0:0:128568350): y!noclip
+Sun May  2 10:17:21 2021	D 1515 (STEAM_0:0:128568350): !noclip
+Sun May  2 10:35:17 2021	D 1515 (STEAM_0:0:128568350): /setspawn iasite
+Sun May  2 10:43:26 2021	D 1515 (STEAM_0:0:128568350) spawned
+Sun May  2 10:43:26 2021	D 1515 (STEAM_0:0:128568350): /advert <c=255,0,0>SCP-106 Disponible pour une Expérience.</c>
+Sun May  2 10:53:35 2021	D 1515 (STEAM_0:0:128568350): /scp

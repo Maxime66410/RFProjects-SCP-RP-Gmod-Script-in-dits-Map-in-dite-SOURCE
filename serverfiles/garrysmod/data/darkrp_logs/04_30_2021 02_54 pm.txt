@@ -1,0 +1,15 @@
+Fri Apr 30 14:54:49 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Fri Apr 30 14:54:49 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) spawned
+Fri Apr 30 15:13:35 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) spawned SENT drone_rentity
+Fri Apr 30 15:14:13 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) spawned SENT drone_sentity
+Fri Apr 30 15:15:16 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) spawned SENT drone_nentity
+Fri Apr 30 15:17:33 2021	STG Seyy / Julie Scott was killed by Himself with a suicide trick
+Fri Apr 30 15:17:34 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) spawned
+Fri Apr 30 15:20:32 2021	STG Seyy / Julie Scott was killed by Entity [0][worldspawn] with a unknown
+Fri Apr 30 15:20:34 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) spawned
+Fri Apr 30 15:20:51 2021	STG Seyy / Julie Scott was killed by Entity [0][worldspawn] with a unknown
+Fri Apr 30 15:20:52 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) spawned
+Fri Apr 30 15:23:53 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) disconnected
+Fri Apr 30 17:30:43 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Fri Apr 30 17:30:43 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) spawned
+Fri Apr 30 17:31:50 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) disconnected

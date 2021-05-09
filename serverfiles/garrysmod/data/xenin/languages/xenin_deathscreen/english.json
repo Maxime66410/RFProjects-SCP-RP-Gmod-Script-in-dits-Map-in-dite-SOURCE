@@ -1,0 +1,79 @@
+{
+  "phrases": {
+    "shop": {
+      "staticCards": "Static cards",
+      "animatedCards": "Animated cards",
+      "search": "Name",
+      "sort": {
+        "priceAscending": "Price up",
+        "priceDescending": "Price down",
+        "alphabetical": "Alphabetical"
+      },
+      "unpurchasable": "Show unpurchasable",
+      "unowned": "Show unowned",
+      "owned": "Owned",
+      "equipped": "EQUIPPED",
+      "purchase": {
+        "canAfford": {
+          "title": "Purchase :name:",
+          "desc": "Are you sure you want to purchase :name: for :price:?",
+          "yes": "Purchase",
+          "no": "No"
+        },
+        "cantAfford": {
+          "title": "Purchase :name:",
+          "desc": "You can't afford :name:, it costs :price:",
+          "btn": "Understood"
+        }
+      },
+      "card": {
+        "unpurchasable": "Unpurchasable",
+        "level": "(lvl: :level:)",
+        "popup": {
+          "title": "Unpurchasable",
+          "desc": "This card is unpurchasable",
+          "btn": "Understood"
+        },
+        "dontMeetRequirements": {
+          "title": "Rank requirements",
+          "desc": "You don't meet the usergroup requirements for this card.",
+          "btn:": "Understood"
+        },
+        "dontMeetLevel": {
+          "title": "Level requirement",
+          "desc": "You need to be level :level: to purchase this.",
+          "btn:": "Understood"
+        }
+      }
+    },
+    "card": {
+      "phrases": {
+        "suicide": "Mistakes were made",
+        "world": "That hurt, eh?",
+        "player": "You were killed by"
+      },
+      "level": "Lvl. :level:",
+      "suicide": "Suicide",
+      "world": "World",
+      "dmg": "You dealt :dealtDmg: damage in :dealtHits: and received :receivedDmg: damage in :receivedHits:.",
+      "hits": {
+        "singular": "hit",
+        "plural": "hits"
+      },
+      "respawn": {
+          "msg": "Respawning in :time:",
+          "skip": {
+              "msg": "Press :key: to respawn",
+              "key": "SPACE"
+          },
+          "plural": "seconds",
+          "singular": "second"
+      }
+    },
+    "killfeed": {
+      "dmg": "You dealt :dealtDmg: damage in :dealtHits:.",
+      "killed": "You killed",
+      "level": "Level"
+    }
+  }
+}

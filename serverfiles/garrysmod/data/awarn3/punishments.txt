@@ -1,0 +1,21 @@
+{
+	"3": {
+		"sMessage": "%s was kicked for reaching a warning threshold.",
+		"pMessage": "AWarn: You were kicked for exceeding the warning threshold.",
+		"warnings": 3.0,
+		"pType": "kick"
+	},
+	"5": {
+		"sMessage": "%s was kicked for reaching a warning threshold.",
+		"pMessage": "AWarn: You were kicked for exceeding the warning threshold.",
+		"warnings": 5.0,
+		"pType": "kick"
+	},
+	"7": {
+		"warnings": 7.0,
+		"pLength": 0.0,
+		"sMessage": "%s was banned permanently for reaching a warning threshold.",
+		"pMessage": "AWarn: You have been permanently banned for exceeding the warning threshold.",
+		"pType": "ban"
+	}
+}

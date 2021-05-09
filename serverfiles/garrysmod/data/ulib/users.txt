@@ -1,0 +1,22 @@
+"STEAM_0:0:128568350"	
+{
+	"name"	"STG Seyy / Julie Scott"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:0:570620733"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Manoubadou"
+	"group"	"superadmin"
+}

@@ -1,0 +1,14 @@
+Sat May  1 11:48:53 2021	STG Seyy / Julie Scott (STEAM_0:0:128568350) has joined the game
+Sat May  1 11:48:53 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 11:50:06 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 11:51:17 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 11:51:25 2021	IAA (STEAM_0:0:128568350): !staff
+Sat May  1 11:51:33 2021	IAA (STEAM_0:0:128568350): !menu
+Sat May  1 11:53:08 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 11:53:08 2021	IAA (STEAM_0:0:128568350): /na <c=255,0,0>SCP-682 Disponible pour une Expérience.</c>
+Sat May  1 11:53:37 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 11:53:37 2021	IAA (STEAM_0:0:128568350): /na <c=255,0,0>SCP-343 Disponible pour une Expérience.</c>
+Sat May  1 11:54:46 2021	IAA was killed by Himself with a suicide trick
+Sat May  1 11:54:52 2021	IAA (STEAM_0:0:128568350) spawned
+Sat May  1 11:54:52 2021	IAA (STEAM_0:0:128568350): /na <c=255,0,0>SCP-343 Disponible pour une Expérience.</c>
+Sat May  1 11:56:15 2021	IAA (STEAM_0:0:128568350) spawned
